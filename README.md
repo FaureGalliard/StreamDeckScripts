@@ -98,7 +98,8 @@ without committing them.
 
 ## 📄 License
 
-[MIT](LICENSE) — free for personal, educational, and commercial use.
+[GNU GPL v3](LICENSE) — free software: use, study, share, and modify it.
+Derivative works must remain under the GPL.
 
 ---
 
