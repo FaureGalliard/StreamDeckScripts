@@ -1,0 +1,8 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Local / personal overrides (copy a template and customize without committing)
+*.local.bat
+*.local.ps1
