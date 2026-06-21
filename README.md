@@ -106,4 +106,4 @@ Derivative works must remain under the GPL.
 ## 👨‍💻 Author
 
 **Angel Gabriel Crispin Valdivia**
-Backend Developer · Automation
+FullStack Developer · Automation
